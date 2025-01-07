@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-rc9!v&2hgl@0a20&(6ry+3$db%8@0^&gzjmu6^v#5bbr#f9**o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['calmora-0tgh.onrender.com','127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['calmora-9.onrender.com','127.0.0.1', 'localhost']
 
 
 # Application definition
